@@ -1,0 +1,1 @@
+var_b = "module_b's variable"

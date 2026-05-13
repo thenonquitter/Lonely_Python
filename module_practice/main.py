@@ -1,4 +1,4 @@
-import module_practice as test
+import circle as test
 
 radius = test.number_input()
 print(test.get_circumference(radius))
